@@ -1,6 +1,5 @@
 # Notes Android App 📝
 
-[![Notes-Writing-Master](/notes-graphics.png)](https://play.google.com/store/apps/details?id=com.rubancreation.notes)
 
 ---
 
@@ -26,7 +25,7 @@ To install and run the Notes Android App, follow these steps:
 
 1. Clone the repository using the following command: 
 ```
-git clone https://github.com/Ruban2205/Notes-android-app.git
+git clone https://github.com/sakthi-dotcom/NoteApp
 ```
 2. Open the project in Android Studio 
 3. Connect an Android device or use an Emulator. 
@@ -64,29 +63,5 @@ Notes Android App is licensed under <ins>**MIT License**.</ins> You are free to 
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Ruban2205/Notes-android-app)
 [![Adobe_XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)](https://github.com/Ruban2205/Notes-android-app)
 
-## Download Now on Play Store 🎉
-
-Google Play Download Link: https://play.google.com/store/apps/details?id=com.rubancreation.notes
-
-## Contact 📧
-
-For any questions or inquiries, please contact the project owner: 
-
-- Ruban [info@rubangino.in](https://mailto:info@rubangino.in/)
-
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rubangino.in/)
-[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@rubangino.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruban-gino-singh/)
-
-Feel free to report any issues or suggest improvements by creating an issue in the GitHub repository.
-
-### Star ⭐ this repository for Future use 😊
-
-Click below to gift 🎁 a book to me.
-
-[![BuyMeABook](https://img.shields.io/badge/Buy%20Me%20a%20Book-ffdd00?style=for-the-badge&logo=buy-me-a-book&logoColor=black)
-](https://bit.ly/3M5jxLd)
-
-**Thank You!!**
 
 <hr/>
